@@ -2,7 +2,7 @@
 
 Visual Beats is an individual project. 
 
-This project is desired to use sound and simple geometric elements to generate motion graphics, making the sound visualized.
+This project is desired to use audio’s frequency and amplitude as inputs to generate and change some simple geometrics and make sound visualizable in a creative and visually-appealing way.
 
 [Check out more details here.](http://www.jiaqiyao.com/soundVisual)
 
